@@ -1,0 +1,11 @@
+*.py
+*.ipynb
+*.h5
+*.keras
+*.pt
+*.pth
+*.npy
+*.npz
+*.csv
+*.xlsx
+.env*
