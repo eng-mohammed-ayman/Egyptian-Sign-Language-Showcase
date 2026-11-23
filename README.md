@@ -27,9 +27,9 @@ The supplied graduation report credits Maryam Elgohary, Shahd Ahmed, Ahmed Ashra
 
 ## Original project materials
 
-[Download the privacy-redacted 22-page presentation](materials/ESL-Presentation-Redacted.pdf). It retains the team-members slide, including Mohamed's name. Student IDs and all photographic signer screenshots are removed. The PDF is historical project evidence: its dataset counts, accuracy, novelty and application statements are original unverified slide claims, not new validated claims by this showcase. Read the limitations below before citing it.
+The full 22-page presentation deck and 53-page report are available on request as privacy-redacted PDFs. Team names and all original pages are retained; student IDs and photographic signer images are removed. They are not currently hosted in this repository.
 
-[Download the privacy-redacted 53-page report](materials/ESL-Report-Redacted.pdf). Team names and all pages remain; student IDs and photographic signer images are removed. Its figures and experimental claims are historical and have not been independently reproduced.
+These are historical project materials. Their dataset totals, accuracy, novelty and application statements have not been independently verified or reproduced. Dataset totals differ across the materials.
 
 ## Evidence and limits
 
@@ -44,4 +44,4 @@ See [MATERIALS.md](MATERIALS.md) for the exact source materials used and what wa
 
 ## Publication boundaries
 
-This repository contains only original contribution-focused text grounded in the supplied archive. It does not link to or copy another team's repository, paper or implementation. It grants no new rights over team code, datasets or third-party material. No student IDs, signer photos or sample signer videos are republished. Privacy-redacted versions of the original report and presentation are included as team-membership and project-history evidence.
+This repository contains only original contribution-focused text grounded in the supplied archive. It does not link to or copy another team's repository, paper or implementation. It grants no new rights over team code, datasets or third-party material. No student IDs, signer photos or sample signer videos are republished. Privacy-redacted versions of the original report and presentation are available on request as team-membership and project-history evidence.
