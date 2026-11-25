@@ -6,7 +6,7 @@ A Galala University AI engineering graduation project exploring Egyptian Sign La
 
 ## My contribution
 
-Mohamed contributed to dataset preparation and refinement, initial research and technical documentation. He reviewed model comparisons and system results. He does not claim independent authorship of the trained model, inference engine or graphical interface.
+Mohamed contributed to initial research, multi-model evaluation (LSTM vs. ConvNeXt), data refinement, Arabic text-rendering integration, dataset preparation and technical documentation. He reviewed model comparisons and system results. He does not claim independent authorship of the trained model, inference engine or graphical interface.
 
 ## What the documented system does
 
